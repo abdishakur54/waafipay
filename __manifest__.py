@@ -27,6 +27,6 @@
     'price': '0.00',
     'currency': 'USD',
     'installable': True,
-    'images': ['static/description/miig.png'],
+    'images': ['static/description/LOGO MiIG- icon.png'],
 
 }
