@@ -8,10 +8,10 @@
 
     'author': "Safarifone Inc",
     'website': "https://www.waafipay.net",
-
+ 
 
     'category': 'Accounting/Payment Acquirers',
-    'version': '14.0.0.1',
+    'version': '16.0.1.2',
     'depends': ['payment'],
 
     # always loaded
