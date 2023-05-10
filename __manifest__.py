@@ -27,6 +27,6 @@
     'price': '0.00',
     'currency': 'USD',
     'installable': True,
-    'images': ['static/description/waafipay.png'],
+    'images': ['static/description/miig.png'],
 
 }
